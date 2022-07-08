@@ -16,7 +16,7 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, , Proxypanel
     ApiConfig:
-      ApiHost: "https://xoocloud.xyz"
+      ApiHost: "https://xoocloud.top"
       ApiKey: "123"
       NodeID: 1
       NodeType: Trojan # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
